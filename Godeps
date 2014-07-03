@@ -45,7 +45,7 @@
 		},
 		{
 			"ImportPath": "github.com/colegleason/auth",
-			"Rev": "afb683f9bae2140f4ce359df3ddc35ee127cae5f"
+			"Rev": "35d2013aa459cc195b72b95e4e74188cbe91cff8"
 		},
 		{
 			"ImportPath": "github.com/modcloth/go-fileutils",
