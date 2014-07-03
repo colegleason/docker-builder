@@ -7,8 +7,8 @@ import (
 	"github.com/modcloth/docker-builder/webhook"
 
 	"github.com/codegangsta/cli"
+	"github.com/colegleason/auth"
 	"github.com/go-martini/martini"
-	"github.com/modcloth/auth"
 )
 
 //ServerDescription is the help text for the `serer` command

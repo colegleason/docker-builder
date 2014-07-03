@@ -44,8 +44,8 @@
 			"Rev": "0280e33525f5d88edb71638a80b31724153225ba"
 		},
 		{
-			"ImportPath": "github.com/modcloth/auth",
-			"Rev": "b6e46c9cd19acff0a88ee836ede379d81b5e086c"
+			"ImportPath": "github.com/colegleason/auth",
+			"Rev": "afb683f9bae2140f4ce359df3ddc35ee127cae5f"
 		},
 		{
 			"ImportPath": "github.com/modcloth/go-fileutils",
